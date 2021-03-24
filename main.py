@@ -1,2 +1,2 @@
-a = 1
+a = "pososi"
 print(a)
